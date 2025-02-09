@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Deepak Kumar.</h1>
-<h3 align="left">Frontend Developer | Building Scalable, Interactive Web Applications | Passionate About Crafting Exceptional User Experiences</h3>
+<h3 align="left">Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
