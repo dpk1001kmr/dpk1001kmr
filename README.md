@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Deepak Kumar.</h1>
 <h3 align="left">Web Developer</h3>
 
-<h3 align="left">
-  <u>Connect with me</u>
-</h3>
+<h3 align="left">Connect with me &rarr;</h3>
 <p align="left">
   <a href="https://linkedin.com/in/deepak-kumar-506410349/" target="blank"
     ><img
