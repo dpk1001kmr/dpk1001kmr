@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Deepak Kumar</h1>
+<h1 align="left">Hi, I'm Deepak Kumar &rarr;</h1>
 <h3 align="left">Web Developer</h3>
 
 <h3 align="left">Connect with me &rarr;</h3>
@@ -13,7 +13,7 @@
   /></a>
 </p>
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Skills &rarr;</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
